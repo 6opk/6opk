@@ -16,7 +16,7 @@
 ### 🔐 Cybersecurity
 
 - Enfoque: **white-hat**, pentesting
-- Lab propio: BlackArch Linux (i3wm, WezTerm)
+- Lab propio: Arch Linux (i3wm, WezTerm)
 - Path de certificación: **eJPT → OSCP**
 - Práctica activa en HackTheBox — writeups de máquinas retiradas próximamente
 
