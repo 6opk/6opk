@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cybersecurity | Full Stack Development</b><br>
-  Estudiante de Ingeniería Civil (UNAM) en transición a desarrollo y seguridad ofensiva
+  Estudiante de Ingeniería Civil (UNAM) en transición a desarrollo y seguridad
 </p>
 
 <p align="center">
@@ -15,9 +15,8 @@
 
 ### 🔐 Cybersecurity
 
-- Especialización de interés: **seguridad en el sector financiero**
-- Enfoque: **white-hat**, pentesting ofensivo
-- Lab propio: BlackArch Linux (i3wm, LUKS/LVM, WezTerm), Tor + proxychains configurado
+- Enfoque: **white-hat**, pentesting
+- Lab propio: BlackArch Linux (i3wm, WezTerm)
 - Path de certificación: **eJPT → OSCP**
 - Práctica activa en HackTheBox — writeups de máquinas retiradas próximamente
 
